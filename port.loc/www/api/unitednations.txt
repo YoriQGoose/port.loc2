@@ -1,0 +1,10 @@
+United Nations Development Programme,undp.org
+United Nations Children's Fund,unicef.org
+World Health Organization,who.int
+International Labour Organization,ilo.org
+United Nations Educational, Scientific and Cultural Organization,unesco.org
+World Food Programme,wfp.org
+United Nations High Commissioner for Refugees,unhcr.org
+World Bank,worldbank.org
+International Monetary Fund,imf.org
+International Civil Aviation Organization,icao.int
